@@ -1,1 +1,1 @@
-# Diabeties
+# Diabetes
